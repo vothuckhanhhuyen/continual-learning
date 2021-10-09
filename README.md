@@ -2,7 +2,7 @@
 
 # Continual Learning
 
-1. 2017 - PNAS - EWC - Overcoming catastrophic forgetting in neural networks [[paper]](https://arxiv.org/abs/1612.00796) [[code]](https://github.com/ariseff/overcoming-catastrophic) [[Fisher Information Matrix]](https://agustinus.kristia.de/techblog/2018/03/11/fisher-information/?fbclid=IwAR3VzgUoO2nUXh9KZi39ScHg0HWOyIJ3Ml-5jtnN11YWXXewdclbwisHlQw)
+1. 2017 - PNAS - EWC - Overcoming catastrophic forgetting in neural networks [[paper]](https://arxiv.org/abs/1612.00796) [[code]](https://github.com/ariseff/overcoming-catastrophic) [[Fisher Information Matrix]](https://agustinus.kristia.de/techblog/2018/03/11/fisher-information/?fbclid=IwAR3VzgUoO2nUXh9KZi39ScHg0HWOyIJ3Ml-5jtnN11YWXXewdclbwisHlQw) [[Natural Gradient Descent]](https://agustinus.kristia.de/techblog/2018/03/14/natural-gradient/)
 
 # Variational Inference
 

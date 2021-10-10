@@ -6,11 +6,12 @@
 
 # Variational Inference
 
+## Week 2
 1. 2011 - NIPS - Practical Variational Inference for Neural Networks [[paper]](https://papers.nips.cc/paper/2011/hash/7eb3c8be3d411e8ebfab08eba5f49632-Abstract.html)
 2. 2015 - ICML - Weight Uncertainty in Neural Networks [[paper]](https://arxiv.org/abs/1505.05424) [[code]](https://github.com/saxena-mayur/Weight-Uncertainty-in-Neural-Networks) [[code]](https://github.com/nitarshan/bayes-by-backprop/blob/master/Weight%20Uncertainty%20in%20Neural%20Networks.ipynb)
 3. 2015 - NIPS - Variational Dropout and the Local Reparameterization Trick [[paper]](https://arxiv.org/abs/1506.02557) 
 
-
+## Week 3
 4. 2019 - CVPR - Variational Bayesian Dropout with a Hierarchical Prior [[paper]](https://arxiv.org/abs/1811.07533)
 5. 2017 - ICML - Variational Dropout Sparsifies Deep Neural Networks [[paper]](https://arxiv.org/abs/1701.05369)
 6. 2018 - NeurIPS - Variational Dropout via Empirical Bayes [[paper]](https://arxiv.org/abs/1811.00596)

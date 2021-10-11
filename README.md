@@ -13,7 +13,7 @@
 
 ## Week 3
 4. 2017 - ICML - Variational Dropout Sparsifies Deep Neural Networks [[paper]](https://arxiv.org/abs/1701.05369)
-5. 2018 - NeurIPS - Variational Dropout via Empirical Bayes [[paper]](https://arxiv.org/abs/1811.00596)
+5. 2018 - NIPS - Variational Dropout via Empirical Bayes [[paper]](https://arxiv.org/abs/1811.00596)
 6. 2019 - CVPR - Variational Bayesian Dropout with a Hierarchical Prior [[paper]](https://arxiv.org/abs/1811.07533)
 
 

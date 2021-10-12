@@ -16,7 +16,7 @@
 
 1. 2018 - CVPR - PackNet - PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning [[paper]](https://arxiv.org/abs/1711.05769) [[code]](https://github.com/arunmallya/packnet)
 2. 2018 - PMLR - HAT - Overcoming catastrophic forgetting with hard attention to the task [[paper]](https://arxiv.org/abs/1801.01423) [[code]](https://github.com/joansj/hat)
-3. 2018 - ICML - SpaceNet - SpaceNet: Make Free Space For Continual Learning [[paper]](https://arxiv.org/abs/1801.01423) [[pap)er]](https://github.com/GhadaSokar/SpaceNet)
+3. 2018 - ICML - SpaceNet - SpaceNet: Make Free Space For Continual Learning [[paper]](https://arxiv.org/abs/1801.01423) [[code]](https://github.com/GhadaSokar/SpaceNet)
 4. 2016 - DeepMind - PNN - Progressive Neural Networks [[paper]](https://arxiv.org/abs/1606.04671) [[code]](https://github.com/hengdashi/pnn) [[code]](https://github.com/sumanvid97/progressive_nets_for_multitask_rl)
 5. 2018 - ICLR - DEN - Lifelong Learning with Dynamically Expandable Networks [[paper]](https://arxiv.org/abs/1708.01547) [[code]](https://github.com/jaehong31/DEN)
 6. 2019 - NIPS - CPG - Compacting, Picking and Growing for Unforgetting Continual Learning [[paper]](https://arxiv.org/abs/1910.06562) [[code]](https://github.com/ivclab/CPG)

@@ -35,3 +35,8 @@
 3. 2019 - CVPR - Variational Bayesian Dropout with a Hierarchical Prior [[paper]](https://arxiv.org/abs/1811.07533)
 
 
+# Seminar
+
+1. 2021 - Alleviate Representation Overlapping in Class Incremental Learning by Contrastive Class Concentration [[paper]](https://arxiv.org/abs/2107.12308) 
+
+

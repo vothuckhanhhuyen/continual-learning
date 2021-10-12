@@ -2,7 +2,25 @@
 
 # Continual Learning
 
+## Introduction
+
+### Prior-based
+
+#### Weight-based
+
 1. 2017 - PNAS - EWC - Overcoming catastrophic forgetting in neural networks [[paper]](https://arxiv.org/abs/1612.00796) [[code]](https://github.com/ariseff/overcoming-catastrophic) [[Fisher Information Matrix]](https://agustinus.kristia.de/techblog/2018/03/11/fisher-information/?fbclid=IwAR3VzgUoO2nUXh9KZi39ScHg0HWOyIJ3Ml-5jtnN11YWXXewdclbwisHlQw) [[Natural Gradient Descent]](https://agustinus.kristia.de/techblog/2018/03/14/natural-gradient/) [[On Quadratic Penalties in Elastic Weight Consolidation]](https://arxiv.org/abs/1712.03847)
+2. 2017 - ICML - SI - Continual Learning Through Synaptic Intelligence [[paper]](https://arxiv.org/abs/1703.04200) [[code]](https://github.com/ganguli-lab/pathint)
+3. 2018 - ECCV - MAS - Memory Aware Synapses: Learning what (not) to forget [[paper]](https://arxiv.org/abs/1711.09601) [[code]](https://github.com/wannabeOG/MAS-PyTorch)
+
+#### Node-based
+
+5. 2018 - ICLR - VCL - VARIATIONAL CONTINUAL LEARNING [[paper]](https://arxiv.org/abs/1710.10628) [[code]](https://github.com/nvcuong/variational-continual-learning)
+6. 2019 - NIPS - UCL - Uncertainty-based Continual Learning with Adaptive Regularization [[paper]](https://arxiv.org/abs/1905.11614) [[code]](https://github.com/csm9493/UCL)
+7. 2021 - NIPS - AGS-CL - Continual Learning with Node-Importance based Adaptive Group Sparse Regularization [[paper]](https://arxiv.org/abs/2003.13726)
+
+### Data-based
+
+9. 2016 - ECCV - LwF - Learning without Forgetting [[paper]](https://arxiv.org/abs/1606.09282) [[code]](https://github.com/ngailapdi/LWF)
 
 # Variational Inference
 

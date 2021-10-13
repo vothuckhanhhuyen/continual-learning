@@ -20,7 +20,7 @@
 4. 2016 - DeepMind - PNN - Progressive Neural Networks [[paper]](https://arxiv.org/abs/1606.04671) [[code]](https://github.com/hengdashi/pnn) [[code]](https://github.com/sumanvid97/progressive_nets_for_multitask_rl)
 5. 2018 - ICLR - DEN - Lifelong Learning with Dynamically Expandable Networks [[paper]](https://arxiv.org/abs/1708.01547) [[code]](https://github.com/jaehong31/DEN)
 6. 2019 - NIPS - CPG - Compacting, Picking and Growing for Unforgetting Continual Learning [[paper]](https://arxiv.org/abs/1910.06562) [[code]](https://github.com/ivclab/CPG)
-7. 2019 - ICML - LtG - Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting [[paper]](https://arxiv.org/abs/1904.00310)
+7. 2019 - ICML - LtG - Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting [[paper]](https://arxiv.org/abs/1904.00310) 
 
 # Variational Inference
 
@@ -38,5 +38,6 @@
 # Seminar
 
 1. 2021 - Alleviate Representation Overlapping in Class Incremental Learning by Contrastive Class Concentration [[paper]](https://arxiv.org/abs/2107.12308) 
+2. 2021 - ICCV - RECALL: Replay-based Continual Learning in Semantic Segmentation - [[paper]](https://arxiv.org/abs/2108.03673) [[code]](https://github.com/lttm/recall)
 
 

@@ -30,7 +30,7 @@
 3. 2015 - NIPS - Variational Dropout and the Local Reparameterization Trick [[paper]](https://arxiv.org/abs/1506.02557) 
 
 ## Week 3
-1. 2017 - ICML - Variational Dropout Sparsifies Deep Neural Networks [[paper]](https://arxiv.org/abs/1701.05369)
+1. 2017 - ICML - Variational Dropout Sparsifies Deep Neural Networks [[paper]](https://arxiv.org/abs/1701.05369) [[code]](https://github.com/bayesgroup/variational-dropout-sparsifies-dnn)
 2. 2018 - NIPS - Variational Dropout via Empirical Bayes [[paper]](https://arxiv.org/abs/1811.00596)
 3. 2019 - CVPR - Variational Bayesian Dropout with a Hierarchical Prior [[paper]](https://arxiv.org/abs/1811.07533)
 

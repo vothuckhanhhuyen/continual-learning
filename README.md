@@ -40,5 +40,6 @@
 
 1. 2021 - Alleviate Representation Overlapping in Class Incremental Learning by Contrastive Class Concentration [[paper]](https://arxiv.org/abs/2107.12308) 
 2. 2021 - ICCV - RECALL: Replay-based Continual Learning in Semantic Segmentation - [[paper]](https://arxiv.org/abs/2108.03673) [[code]](https://github.com/lttm/recall)
+3. 2021 - ICCV - Striking a Balance between Stability and Plasticity for Class-Incremental Learning [[paper]](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)
 
 

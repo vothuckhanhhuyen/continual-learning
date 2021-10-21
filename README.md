@@ -22,6 +22,8 @@
 6. 2019 - NIPS - CPG - Compacting, Picking and Growing for Unforgetting Continual Learning [[paper]](https://arxiv.org/abs/1910.06562) [[code]](https://github.com/ivclab/CPG)
 7. 2019 - ICML - LtG - Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting [[paper]](https://arxiv.org/abs/1904.00310) 
 8. 2018 - PiggyBack - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights [[paper]](https://arxiv.org/abs/1801.06519) [[code]](https://github.com/arunmallya/piggyback)
+9. 2017 - PathNet - PathNet: Evolution Channels Gradient Descent in Super Neural Networks [[paper]](http://www.gatsby.ucl.ac.uk/~ucgtcbl/papers/FerBanBluZwoHaRusPriWie2017a.pdf)
+10. 2017 - DAN - Incremental Learning Through Deep Adaptation [[paper]](https://arxiv.org/abs/1705.04228)
 
 # Variational Inference
 

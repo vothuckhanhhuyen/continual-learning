@@ -25,6 +25,17 @@
 9. 2017 - PathNet - PathNet: Evolution Channels Gradient Descent in Super Neural Networks [[paper]](http://www.gatsby.ucl.ac.uk/~ucgtcbl/papers/FerBanBluZwoHaRusPriWie2017a.pdf)
 10. 2017 - DAN - Incremental Learning Through Deep Adaptation [[paper]](https://arxiv.org/abs/1705.04228)
 
+### Memory-based
+
+1. 2017 - CVPR - iCaRL - iCaRL: Incremental Classifier and Representation Learning [[paper]](https://arxiv.org/abs/1611.07725) [[code]](https://github.com/srebuffi/iCaRL)
+2. 2019 - CVPR - BiC - Learning a Unified Classifier Incrementally via Rebalancing [[paper]]() [[code]](https://github.com/hshustc/CVPR19_Incremental_Learning)
+3. 2020 - CVPR - Mnemonics Training: Multi-Class Incremental Learning without Forgetting [[paper]](https://arxiv.org/abs/2002.10211) [[code]](https://github.com/yaoyao-liu/class-incremental-learning)
+4. 2017 - NIPS - Deep Generative Replay - Continual Learning with Deep Generative Replay [[paper]](https://arxiv.org/abs/1705.08690) [[code]](https://github.com/kuc2477/pytorch-deep-generative-replay)
+5. 2019 - ICLR - PGMA - OVERCOMING CATASTROPHIC FORGETTING FOR CONTINUAL LEARNING VIA MODEL ADAPTATION [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX) [[code]](https://github.com/morning-dews/PGMA_tensorflow)
+6. 2019 - CVPR - DGM - Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning [[paper]](https://arxiv.org/abs/1904.03137) [[code]](https://github.com/SAP-archive/machine-learning-dgm)
+7. 2020 - NIPS - MERLIN - Meta-Consolidation for Continual Learning [[paper]](https://arxiv.org/abs/2010.00352) [[code]](https://github.com/JosephKJ/merlin)
+8. 2020 - CVPR - Generative Feature Replay - Generative Feature Replay For Class-Incremental Learning [[paper]](https://arxiv.org/abs/2004.09199) [[code]](https://github.com/xialeiliu/GFR-IL)
+
 # Variational Inference
 
 ## Week 2
@@ -37,11 +48,17 @@
 2. 2018 - NIPS - Variational Dropout via Empirical Bayes [[paper]](https://arxiv.org/abs/1811.00596)
 3. 2019 - CVPR - Variational Bayesian Dropout with a Hierarchical Prior [[paper]](https://arxiv.org/abs/1811.07533)
 
-
 # Seminar
 
 1. 2021 - Alleviate Representation Overlapping in Class Incremental Learning by Contrastive Class Concentration [[paper]](https://arxiv.org/abs/2107.12308) 
 2. 2021 - ICCV - RECALL: Replay-based Continual Learning in Semantic Segmentation - [[paper]](https://arxiv.org/abs/2108.03673) [[code]](https://github.com/lttm/recall)
 3. 2021 - ICCV - Striking a Balance between Stability and Plasticity for Class-Incremental Learning [[paper]](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)
 
+# Bi-week Seminar
+
+## DGM
+1. 2020 - ICLR - A critical analysis of self-supervision, or what we can learn from a single image [[paper]](https://arxiv.org/abs/1904.13132) [[code]](https://github.com/yukimasano/linear-probes)
+
+## CL
+1. 2020 - Learning to Continually Learn [[paper]](https://arxiv.org/abs/2002.09571) [[code]](https://github.com/uvm-neurobotics-lab/ANML)
 

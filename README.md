@@ -51,8 +51,10 @@
 # Seminar
 
 1. 2021 - Alleviate Representation Overlapping in Class Incremental Learning by Contrastive Class Concentration [[paper]](https://arxiv.org/abs/2107.12308) 
-2. 2021 - ICCV - RECALL: Replay-based Continual Learning in Semantic Segmentation - [[paper]](https://arxiv.org/abs/2108.03673) [[code]](https://github.com/lttm/recall)
+2. 2021 - ICCV - RECALL: Replay-based Continual Learning in Semantic Segmentation [[paper]](https://arxiv.org/abs/2108.03673) [[code]](https://github.com/lttm/recall)
 3. 2021 - ICCV - Striking a Balance between Stability and Plasticity for Class-Incremental Learning [[paper]](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)
+4. 2019 - NIPS - Random Path Selection for Incremental Learning [[paper]](https://papers.nips.cc/paper/2019/file/83da7c539e1ab4e759623c38d8737e9e-Paper.pdf) [[code]](https://github.com/brjathu/RPSnet)
+5. 2021 - NIPS - Optimizing Reusable Knowledge for Continual Learning via Metalearning [[paper]](https://arxiv.org/abs/2106.05390) [[code]](https://github.com/JuliousHurtado/meta-training-setup)
 
 # Bi-week Seminar
 

@@ -28,7 +28,7 @@
 ### Memory-based
 
 1. 2017 - CVPR - iCaRL - iCaRL: Incremental Classifier and Representation Learning [[paper]](https://arxiv.org/abs/1611.07725) [[code]](https://github.com/srebuffi/iCaRL)
-2. 2019 - CVPR - BiC - Learning a Unified Classifier Incrementally via Rebalancing [[paper]]() [[code]](https://github.com/hshustc/CVPR19_Incremental_Learning)
+2. 2019 - CVPR - BiC - Large Scale Incremental Learning [[paper]](https://arxiv.org/abs/1905.13260) [[code]](https://github.com/wuyuebupt/LargeScaleIncrementalLearning)
 3. 2020 - CVPR - Mnemonics Training: Multi-Class Incremental Learning without Forgetting [[paper]](https://arxiv.org/abs/2002.10211) [[code]](https://github.com/yaoyao-liu/class-incremental-learning)
 4. 2017 - NIPS - Deep Generative Replay - Continual Learning with Deep Generative Replay [[paper]](https://arxiv.org/abs/1705.08690) [[code]](https://github.com/kuc2477/pytorch-deep-generative-replay)
 5. 2019 - ICLR - PGMA - OVERCOMING CATASTROPHIC FORGETTING FOR CONTINUAL LEARNING VIA MODEL ADAPTATION [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX) [[code]](https://github.com/morning-dews/PGMA_tensorflow)

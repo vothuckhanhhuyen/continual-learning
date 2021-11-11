@@ -36,6 +36,18 @@
 7. 2020 - NIPS - MERLIN - Meta-Consolidation for Continual Learning [[paper]](https://arxiv.org/abs/2010.00352) [[code]](https://github.com/JosephKJ/merlin)
 8. 2020 - CVPR - Generative Feature Replay - Generative Feature Replay For Class-Incremental Learning [[paper]](https://arxiv.org/abs/2004.09199) [[code]](https://github.com/xialeiliu/GFR-IL)
 
+### Gradient-based
+
+1. 2020 - PMLR - OGD - Orthogonal gradient descent for continual learning [[paper]](https://arxiv.org/abs/1910.07104) 
+2. 2017 - NIPS - GEM - Gradient episodic memory for continual learning [[paper]](https://arxiv.org/abs/1706.08840) [[code]](https://github.com/facebookresearch/GradientEpisodicMemory)
+3. 2019 - ICLR - A-GEM - Efficient lifelong learning with a-gem [[paper]](https://arxiv.org/abs/1812.00420) [[code]](https://github.com/facebookresearch/agem)
+4. 2020 - SOFT-GEM - Gradient Episodic Memory with a Soft Constraint for Continual Learning [[paper]](https://arxiv.org/abs/2011.07801) 
+5. 2021 - CVPR - G-Decomposition - Layerwise optimization by gradient decomposition for continual learning [[paper]](https://arxiv.org/abs/2105.07561)
+6. 2020 - NIPS - MEGA - Improved schemes for episodic memory-based lifelong learning [[paper]](https://arxiv.org/abs/1909.11763)
+7. 2020 - ICLR - GPM - Gradient projection memory for continual learning [[paper]](https://arxiv.org/abs/2103.09762) [[code]](https://github.com/sahagobinda/GPM)
+8. 2020 - NIPS - ORTHO - Continual learning in low-rank orthogonal subspaces [[paper]](https://arxiv.org/abs/2010.11635) [[code]](https://github.com/arslan-chaudhry/orthog_subspace)
+9. 2019 - OWM - Continual learning of context-dependent processing in neural networks [[paper]](https://arxiv.org/abs/1810.01256) [[code]](https://github.com/beijixiong3510/OWM)
+
 # Variational Inference
 
 ## Week 2

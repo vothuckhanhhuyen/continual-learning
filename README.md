@@ -43,7 +43,7 @@
 3. 2019 - ICLR - A-GEM - Efficient lifelong learning with a-gem [[paper]](https://arxiv.org/abs/1812.00420) [[code]](https://github.com/facebookresearch/agem)
 4. 2020 - SOFT-GEM - Gradient Episodic Memory with a Soft Constraint for Continual Learning [[paper]](https://arxiv.org/abs/2011.07801) 
 5. 2021 - CVPR - G-Decomposition - Layerwise optimization by gradient decomposition for continual learning [[paper]](https://arxiv.org/abs/2105.07561)
-6. 2020 - NIPS - MEGA - Improved schemes for episodic memory-based lifelong learning [[paper]](https://arxiv.org/abs/1909.11763)
+6. 2020 - NIPS - MEGA - Improved schemes for episodic memory-based lifelong learning [[paper]](https://arxiv.org/abs/1909.11763) [[code]](https://github.com/yunhuiguo/MEGA)
 7. 2021 - ICLR - GPM - Gradient projection memory for continual learning [[paper]](https://arxiv.org/abs/2103.09762) [[code]](https://github.com/sahagobinda/GPM)
 8. 2020 - NIPS - ORTHO - Continual learning in low-rank orthogonal subspaces [[paper]](https://arxiv.org/abs/2010.11635) [[code]](https://github.com/arslan-chaudhry/orthog_subspace)
 9. 2019 - OWM - Continual learning of context-dependent processing in neural networks [[paper]](https://arxiv.org/abs/1810.01256) [[code]](https://github.com/beijixiong3510/OWM)
@@ -67,6 +67,7 @@
 3. 2021 - ICCV - Striking a Balance between Stability and Plasticity for Class-Incremental Learning [[paper]](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_ICCV2021.pdf)
 4. 2019 - NIPS - Random Path Selection for Incremental Learning [[paper]](https://papers.nips.cc/paper/2019/file/83da7c539e1ab4e759623c38d8737e9e-Paper.pdf) [[code]](https://github.com/brjathu/RPSnet)
 5. 2021 - NIPS - Optimizing Reusable Knowledge for Continual Learning via Metalearning [[paper]](https://arxiv.org/abs/2106.05390) [[code]](https://github.com/JuliousHurtado/meta-training-setup)
+6. 2021 - CVPR - Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning [[paper]](https://arxiv.org/abs/2103.13885) [[code]](https://github.com/RaptorMai/online-continual-learning)
 
 # Bi-week Seminar
 

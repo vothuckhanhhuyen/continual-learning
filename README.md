@@ -1,4 +1,4 @@
-# continual_learning
+# continual-learning
 
 # Continual Learning
 
